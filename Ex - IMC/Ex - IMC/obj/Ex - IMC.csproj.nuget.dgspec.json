@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafael Candeias\\Desktop\\Gen Conteúdos da Aulas\\Exercícios\\DotNet\\projectDotNet\\Ex - IMC\\Ex - IMC\\Ex - IMC.csproj": {}
+    "C:\\Users\\Rafael Candeias\\Desktop\\Gen Conteúdos da Aulas\\Exercícios\\DotNet\\projectIMC\\Ex - IMC\\Ex - IMC\\Ex - IMC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafael Candeias\\Desktop\\Gen Conteúdos da Aulas\\Exercícios\\DotNet\\projectDotNet\\Ex - IMC\\Ex - IMC\\Ex - IMC.csproj": {
+    "C:\\Users\\Rafael Candeias\\Desktop\\Gen Conteúdos da Aulas\\Exercícios\\DotNet\\projectIMC\\Ex - IMC\\Ex - IMC\\Ex - IMC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael Candeias\\Desktop\\Gen Conteúdos da Aulas\\Exercícios\\DotNet\\projectDotNet\\Ex - IMC\\Ex - IMC\\Ex - IMC.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael Candeias\\Desktop\\Gen Conteúdos da Aulas\\Exercícios\\DotNet\\projectIMC\\Ex - IMC\\Ex - IMC\\Ex - IMC.csproj",
         "projectName": "Ex - IMC",
-        "projectPath": "C:\\Users\\Rafael Candeias\\Desktop\\Gen Conteúdos da Aulas\\Exercícios\\DotNet\\projectDotNet\\Ex - IMC\\Ex - IMC\\Ex - IMC.csproj",
+        "projectPath": "C:\\Users\\Rafael Candeias\\Desktop\\Gen Conteúdos da Aulas\\Exercícios\\DotNet\\projectIMC\\Ex - IMC\\Ex - IMC\\Ex - IMC.csproj",
         "packagesPath": "C:\\Users\\Rafael Candeias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael Candeias\\Desktop\\Gen Conteúdos da Aulas\\Exercícios\\DotNet\\projectDotNet\\Ex - IMC\\Ex - IMC\\obj\\",
+        "outputPath": "C:\\Users\\Rafael Candeias\\Desktop\\Gen Conteúdos da Aulas\\Exercícios\\DotNet\\projectIMC\\Ex - IMC\\Ex - IMC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
